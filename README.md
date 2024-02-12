@@ -4,20 +4,23 @@
 El alumno activará sus conocimientos previos de estadística, a través de su aplicación en
 diferentes facetas de un caso práctico.
 
-Actividad 1
+### Actividad 1
 En la siguiente actividad se trabaja con una serie que se supone es toda la población bajo
 estudio. A partir de ello no habría necesidad de hacer estimaciones, pero se realizarán con
 el propósito activar, a través de un experimento controlado, los conocimientos previos del
 estudiante relacionados con estadística descriptiva e inferencial.
+
 1. Descargue de la plataforma el archivo de Excel con los datos de las exportaciones
 petroleras mexicanas, cuyos datos consideran únicamente los periodos
 presidenciales de Carlos Salinas de Gortari a Enrique Peña Nieto.
 2. Estadística descriptiva
+
 a. Calcule las medidas de tendencia central, dispersión, posición y asimetría
 de sus datos.
 b. Obtenga gráfica de líneas, histograma, polígono de frecuencias, diagrama
 de caja y bigotes.
 c. Redacte una interpretación de toda su estadística descriptiva.
+
 3. ¿Las medidas obtenidas son parámetros o estimadores? Justifique su respuesta.
 4. Tamaño de muestra
 a. Defina qué es una muestra aleatoria.
@@ -39,8 +42,6 @@ b. ¿Qué es un estimador?
 c. ¿Cómo se obtiene el estimador que utilizó?
 d. ¿Qué propiedades tiene el estimador utilizado? Justifique detalladamente su
 respuesta.
-Estadística II
-2
 e. ¿Cómo se distribuye el estimador utilizado? Justifique teóricamente su
 respuesta, incluyendo el método para encontrar la función de densidad de la
 variable aleatoria en cuestión.
@@ -84,8 +85,6 @@ contrastar la igualdad de dos medias.
 11. Prueba de hipótesis sobre varianzas
 a. Observe las exportaciones petroleras en los sexenios de Felipe Calderón
 Hinojosa y Enrique Peña Nieto. Establezca, basándose únicamente en su 
-Estadística II
-3
 percepción, una hipótesis comparativa entre la variabilidad en los datos de
 ambos periodos.
 b. Inicie su procedimiento para contrastar su percepción identificando una
@@ -101,8 +100,7 @@ g. Tome una muestra aleatoria de tamaño 30 sobre cada una de las
 poblaciones bajo estudio.
 h. Ejecute su prueba e interprete el resultado.
 i. Calcule el p-value de su prueba. ¿Qué significado tiene?
-12. Utilice el software R para corroborar sus resultados de los numerales 2, 4, 6, 7, 9 y
-11.
+12. Utilice el software R para corroborar sus resultados de los numerales 2, 4, 6, 7, 9 y 11.
 13. Realice un esquema sobre el procedimiento estadístico para contrastar una
 hipótesis.
 14. Reporte de actividad
@@ -129,57 +127,3 @@ g. Se argumenta con claridad el desarrollo de la actividad, incluyendo figuras
 (con título) que se comentan y relacionan en el cuerpo del documento.
 h. Hay una conclusión por cada resultado presentado y en conjunto responden
 al objetivo de la actividad.
-Estadística II
-4
-Consecutivo
-Rúbrica de evaluación
-Aspecto por evaluar
-Puntaje
-posible
-Puntaje
-obtenido
-Calidad de forma y secciones iniciales del reporte de proyecto
-A0 El reporte está correctamente redactado y sin faltas de
-ortografía.
-Requisito -0.5
-A1 El reporte incluye carátula, tabla de contenido
-automático, tabla automática de tablas, tabla
-automática de figuras, numeración de páginas, citas a
-fuentes documentales y tabla automática de referencias
-(estas dos de conformidad con la norma APA).
-0/1 0
-A2 El título del proyecto es descriptivo con hasta 12
-palabras.
-0/0.5 0
-A3 El reporte de proyecto cuenta con un resumen de no
-más de 250 palabras que incluye objetivo, metodología,
-resultados y conclusiones básicas.
-0/0.5 0.5
-A4 Se incluyen tres palabras clave. 0/0.5 0.5
-A5 La introducción del escrito responde a las preguntas
-¿qué? (concepto de lo que se quiere hacer y
-antecedentes), ¿por qué? (problema a resolver) y ¿para
-qué? (objetivo del proyecto).
-0/0.5 0.5
-Metodología
-A6 El reporte de proyecto incorpora un marco teórico de
-máximo cinco cuartillas, con una redacción propia del
-estudiante que articula coherentemente todos los
-conocimientos requeridos para la elaboración de la
-actividad.
-0 a 1 0.5
-A7 El marco teórico finaliza con un mapa conceptual que
-abarca todos los contenidos teóricos de la actividad.
-Requisito -0.5
-Conclusiones
-A8 Hay una conclusión por cada resultado presentado y en
-conjunto responden al objetivo del proyecto.
-0/1 1
-Dominio del contenido
-A9 El desarrollo del proyecto refleja el dominio del
-estudiante sobre los aspectos conceptuales y de
-aplicación de los temas explorados en la actividad.
-0 a 4 0.9
-A10 El desarrollo del proyecto se apoya en el software R en
-todos los aspectos estadísticos incluidos.
-0 a 1 0.1
